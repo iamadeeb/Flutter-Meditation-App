@@ -172,7 +172,8 @@ class _DiscoverPageState extends State<DiscoverPage> {
                     ),
                   ),
                   DiscoverSmallCard(
-                    onTap: (){},
+                    onTap: (){
+                    },
                     title: "For Children",
                     gradientStartColor: Color(0xffFFD541),
                     gradientEndColor: Color(0xffF0B31A),
