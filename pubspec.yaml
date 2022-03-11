@@ -7,7 +7,7 @@ environment:
 
 
 dependencies:
-  flutter_screenutil: ^5.0.0+2
+  flutter_screenutil: ^5.3.1
   flutter_svg: ^0.23.0+1
   get: ^4.3.8
   flutter:
